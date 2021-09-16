@@ -2,7 +2,7 @@
   "name": "memeass_bot",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://wigqueel.github.io/wildwildhack-memass",
+  "homepage": "http://wigqueel.github.io/memass_bot",
   "dependencies": {
     "@chakra-ui/react": "^1.6.7",
     "@emotion/react": "^11",
